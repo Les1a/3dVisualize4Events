@@ -2,7 +2,10 @@
 Visual performance of events sequence with axes of x, y and t
 
 
-input data: ['.h5', '.csv']
+input data:
+  
+  ['.h5', '.csv']
+
 
   h5 data form:
   
